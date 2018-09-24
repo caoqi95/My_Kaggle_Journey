@@ -4,6 +4,6 @@
 
 ### Getting Started
  
- + Titanic
- + Digit Recognizer 
-   - Using CNN
+ + Titanic: Using Neural Network method
+ + Digit Recognizer:
+   - Using CNN method 
