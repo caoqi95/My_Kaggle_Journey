@@ -5,3 +5,5 @@
 ### Getting Started
  
  + Titanic
+ + Digit Recognizer 
+   - Using CNN
