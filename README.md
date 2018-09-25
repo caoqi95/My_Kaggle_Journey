@@ -7,3 +7,4 @@
  + Titanic: Using Neural Network method
  + Digit Recognizer:
    - Using CNN method 
+   - Using KNN method
