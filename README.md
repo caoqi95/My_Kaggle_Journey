@@ -1,6 +1,6 @@
 # My_Kaggle_Journey
 
-主要记录在 Kaggle 上参加的各种项目和竞赛。先从最容易的开始，希望自己能在这条道上越走越好 :)
+Mainly recorded in Kaggle's various projects and contests. Start with the easiest one and hope i can get better along the way :)
 
 ### Getting Started
  
