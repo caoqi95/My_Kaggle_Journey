@@ -1,6 +1,6 @@
 # My_Kaggle_Journey
 
-Mainly recorded in Kaggle's various projects and contests. Start with the easiest one and hope i can get better along the way :)
+Mainly recorded in Kaggle's various contests. Start with the easiest one and hope i can get better along the way :)
 
 ### Getting Started
  
