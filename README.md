@@ -5,8 +5,8 @@ Mainly recorded in Kaggle's various contests. Start with the easiest one and hop
 ### Getting Started
  
  + Titanic: 
-   - Using Neural Network Method, Score: 0.76555
-   - Using Decision Tree Method, Score: 0.72727
+   - Using Neural Network Method, Final Score: 0.76555
+   - Using Decision Tree Method, Final Score: 0.72727
  + Digit Recognizer:
-   - Using CNN Method, Score: 0.97428
-   - Using KNN Method, Score: 0.96800
+   - Using CNN Method, Final Score: 0.97428
+   - Using KNN Method, Final Score: 0.96800
