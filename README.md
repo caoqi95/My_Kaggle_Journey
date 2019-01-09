@@ -10,8 +10,12 @@ Mainly recorded in Kaggle's various contests. Start with the easiest one and hop
  + Digit Recognizer:
    - Using CNN Method, Final Score: 0.97428
    - Using KNN Method, Final Score: 0.96800
+ + Facial Keypoints Detection
+   - Using CNN Method, Final Score： 3.24142
    
 ### Learn From Kernels
  
  + Quora:
    - [2DCNN_textClassifiter](https://www.kaggle.com/yekenot/2dcnn-textclassifier)
+ + Facial Keypoints Detection：
+   - [Facial Keypoint Detection ](https://www.kaggle.com/karanjakhar/facial-keypoint-detection)
