@@ -19,3 +19,5 @@ Mainly recorded in Kaggle's various contests. Start with the easiest one and hop
    - [2DCNN_textClassifiter](https://www.kaggle.com/yekenot/2dcnn-textclassifier)
  + Facial Keypoints Detection：
    - [Facial Keypoint Detection ](https://www.kaggle.com/karanjakhar/facial-keypoint-detection)
+ + ECG Heartbeat Classification：
+   - [Model from ArXiv 1805.00794](https://www.kaggle.com/coni57/model-from-arxiv-1805-00794)
